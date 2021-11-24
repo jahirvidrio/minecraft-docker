@@ -1,0 +1,16 @@
+version: "3"
+
+services:
+  minecraft:
+    image: minecraftservers/minecraft-server:stable
+    ports:
+      - 25565:25565
+    environment:
+      EULA: "TRUE"
+      MEMORY: "3G"
+      VERSION: "1.17.1"
+    tty: true
+    stdin_open: true
+    restart: unless-stopped
+    volumes:
+      - "./data:/data"
