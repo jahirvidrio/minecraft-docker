@@ -1,95 +1,83 @@
-[06:30:32] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[06:30:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[06:30:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[06:30:33] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[06:30:33] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[06:30:33] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[06:30:33] [main/INFO]: Reloading ResourceManager: Default
-[06:30:33] [Worker-Main-13/INFO]: Loaded 7 recipes
-[06:30:34] [Worker-Main-13/INFO]: Loaded 1137 advancements
-[06:30:35] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[06:30:35] [Server thread/INFO]: Loading properties
-[06:30:35] [Server thread/INFO]: Default game type: SURVIVAL
-[06:30:35] [Server thread/INFO]: Generating keypair
-[06:30:35] [Server thread/INFO]: Starting Minecraft server on *:25565
-[06:30:35] [Server thread/INFO]: Using epoll channel type
-[06:30:36] [Server thread/INFO]: Preparing level "world"
-[06:30:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[06:30:42] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[06:30:42] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[06:30:43] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[06:30:43] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[06:30:44] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[06:30:44] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[06:30:45] [Worker-Main-11/INFO]: Preparing spawn area: 1%
-[06:30:45] [Worker-Main-12/INFO]: Preparing spawn area: 1%
-[06:30:46] [Worker-Main-14/INFO]: Preparing spawn area: 3%
-[06:30:46] [Worker-Main-14/INFO]: Preparing spawn area: 3%
-[06:30:47] [Worker-Main-9/INFO]: Preparing spawn area: 5%
-[06:30:47] [Worker-Main-12/INFO]: Preparing spawn area: 5%
-[06:30:48] [Worker-Main-12/INFO]: Preparing spawn area: 5%
-[06:30:48] [Worker-Main-14/INFO]: Preparing spawn area: 8%
-[06:30:49] [Worker-Main-12/INFO]: Preparing spawn area: 8%
-[06:30:49] [Worker-Main-13/INFO]: Preparing spawn area: 8%
-[06:30:50] [Worker-Main-14/INFO]: Preparing spawn area: 8%
-[06:30:50] [Worker-Main-8/INFO]: Preparing spawn area: 8%
-[06:30:51] [Worker-Main-9/INFO]: Preparing spawn area: 8%
-[06:30:51] [Worker-Main-12/INFO]: Preparing spawn area: 8%
-[06:30:52] [Worker-Main-14/INFO]: Preparing spawn area: 15%
-[06:30:52] [Worker-Main-11/INFO]: Preparing spawn area: 15%
-[06:30:53] [Worker-Main-14/INFO]: Preparing spawn area: 15%
-[06:30:53] [Worker-Main-14/INFO]: Preparing spawn area: 15%
-[06:30:54] [Worker-Main-12/INFO]: Preparing spawn area: 15%
-[06:30:54] [Worker-Main-10/INFO]: Preparing spawn area: 15%
-[06:30:55] [Worker-Main-9/INFO]: Preparing spawn area: 25%
-[06:30:55] [Worker-Main-8/INFO]: Preparing spawn area: 25%
-[06:30:56] [Worker-Main-14/INFO]: Preparing spawn area: 29%
-[06:30:56] [Worker-Main-14/INFO]: Preparing spawn area: 29%
-[06:30:57] [Worker-Main-9/INFO]: Preparing spawn area: 29%
-[06:30:57] [Worker-Main-10/INFO]: Preparing spawn area: 37%
-[06:30:58] [Worker-Main-8/INFO]: Preparing spawn area: 39%
-[06:30:58] [Worker-Main-9/INFO]: Preparing spawn area: 43%
-[06:30:59] [Worker-Main-14/INFO]: Preparing spawn area: 47%
-[06:30:59] [Worker-Main-8/INFO]: Preparing spawn area: 47%
-[06:31:00] [Worker-Main-9/INFO]: Preparing spawn area: 55%
-[06:31:00] [Worker-Main-9/INFO]: Preparing spawn area: 62%
-[06:31:01] [Worker-Main-8/INFO]: Preparing spawn area: 68%
-[06:31:01] [Worker-Main-12/INFO]: Preparing spawn area: 72%
-[06:31:02] [Worker-Main-11/INFO]: Preparing spawn area: 79%
-[06:31:02] [Worker-Main-11/INFO]: Preparing spawn area: 83%
-[06:31:03] [Worker-Main-14/INFO]: Preparing spawn area: 88%
-[06:31:03] [Worker-Main-9/INFO]: Preparing spawn area: 94%
-[06:31:03] [Server thread/INFO]: Time elapsed: 21845 ms
-[06:31:03] [Server thread/INFO]: Done (27.795s)! For help, type "help"
-[06:31:03] [Server thread/INFO]: Starting remote control listener
-[06:31:03] [Server thread/INFO]: Thread RCON Listener started
-[06:31:03] [Server thread/INFO]: RCON running on 0.0.0.0:25575
-[06:38:20] [User Authenticator #1/INFO]: UUID of player JahirVidrio is e0c620de-8be6-4db4-81b4-db467a658635
-[06:38:20] [Server thread/INFO]: JahirVidrio[/10.200.33.175:48278] logged in with entity id 298 at (16.5, 64.0, -103.5)
-[06:38:20] [Server thread/INFO]: JahirVidrio joined the game
-[06:38:28] [Server thread/INFO]: JahirVidrio lost connection: Disconnected
-[06:38:28] [Server thread/INFO]: JahirVidrio left the game
-[06:43:18] [User Authenticator #2/INFO]: UUID of player JahirVidrio is e0c620de-8be6-4db4-81b4-db467a658635
-[06:43:18] [Server thread/INFO]: JahirVidrio[/10.200.33.175:48282] logged in with entity id 413 at (16.30000001192093, 64.0, -103.35811559942762)
-[06:43:18] [Server thread/INFO]: JahirVidrio joined the game
-[06:47:26] [Server thread/INFO]: JahirVidrio lost connection: Disconnected
-[06:47:26] [Server thread/INFO]: JahirVidrio left the game
-[06:49:12] [User Authenticator #3/INFO]: UUID of player JahirVidrio is e0c620de-8be6-4db4-81b4-db467a658635
-[06:49:12] [Server thread/INFO]: JahirVidrio[/10.200.33.175:48292] logged in with entity id 876 at (19.30000001192093, 63.0, -105.30000001192093)
-[06:49:12] [Server thread/INFO]: JahirVidrio joined the game
-[07:00:24] [Server thread/INFO]: JahirVidrio lost connection: Disconnected
-[07:00:24] [Server thread/INFO]: JahirVidrio left the game
-[07:44:57] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[07:44:57] [Server thread/INFO]: [Rcon: Stopping the server]
-[07:44:57] [Server thread/INFO]: Stopping server
-[07:44:57] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
-[07:44:57] [Server thread/INFO]: Saving players
-[07:44:57] [Server thread/INFO]: Saving worlds
-[07:44:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[07:44:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[07:44:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[07:44:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:44:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:44:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07:44:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[07:44:57] [Server thread/INFO]: Thread RCON Listener stopped
+[07:23:31] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[07:23:32] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:23:32] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:23:32] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[07:23:32] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[07:23:32] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:23:32] [main/INFO]: Reloading ResourceManager: Default
+[07:23:33] [Worker-Main-2/INFO]: Loaded 7 recipes
+[07:23:34] [Worker-Main-2/INFO]: Loaded 1137 advancements
+[07:23:36] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[07:23:36] [Server thread/INFO]: Loading properties
+[07:23:36] [Server thread/INFO]: Default game type: SURVIVAL
+[07:23:36] [Server thread/INFO]: Generating keypair
+[07:23:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:23:37] [Server thread/INFO]: Using epoll channel type
+[07:23:37] [Server thread/INFO]: Preparing level "world"
+[07:23:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:23:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:23:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:23:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:23:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:23:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:23:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:23:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:23:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:23:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:23:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:23:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:23:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:23:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:23:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:23:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:23:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:23:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:23:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:23:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:23:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:23:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:23:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:23:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:23:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:23:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:23:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:23:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:23:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:23:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:23:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:23:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:23:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:23:53] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[07:23:54] [Worker-Main-2/INFO]: Preparing spawn area: 54%
+[07:23:54] [Worker-Main-2/INFO]: Preparing spawn area: 54%
+[07:23:55] [Server thread/INFO]: Time elapsed: 17915 ms
+[07:23:55] [Server thread/INFO]: Done (18.092s)! For help, type "help"
+[07:23:55] [Server thread/INFO]: Starting remote control listener
+[07:23:55] [Server thread/INFO]: Thread RCON Listener started
+[07:23:55] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[07:24:03] [User Authenticator #1/INFO]: UUID of player JahirVidrio is e0c620de-8be6-4db4-81b4-db467a658635
+[07:24:03] [Server thread/INFO]: JahirVidrio[/187.198.145.22:12315] logged in with entity id 232 at (4.311884297419593, 70.0, -108.69999998807907)
+[07:24:03] [Server thread/INFO]: JahirVidrio joined the game
+[07:24:22] [Server thread/INFO]: JahirVidrio has made the advancement [Monster Hunter]
+[07:25:29] [Server thread/INFO]: JahirVidrio lost connection: Disconnected
+[07:25:29] [Server thread/INFO]: JahirVidrio left the game
+[07:25:31] [User Authenticator #2/INFO]: UUID of player JahirVidrio is e0c620de-8be6-4db4-81b4-db467a658635
+[07:25:31] [Server thread/INFO]: JahirVidrio[/187.198.145.22:12297] logged in with entity id 502 at (-65.80382765087808, 64.0, -42.15932264451957)
+[07:25:31] [Server thread/INFO]: JahirVidrio joined the game
+[07:34:41] [Server thread/INFO]: JahirVidrio has made the advancement [Stone Age]
+[07:35:54] [Server thread/INFO]: JahirVidrio lost connection: Disconnected
+[07:35:54] [Server thread/INFO]: JahirVidrio left the game
+[07:39:15] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[07:39:15] [Server thread/INFO]: [Rcon: Stopping the server]
+[07:39:15] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[07:39:15] [Server thread/INFO]: Stopping server
+[07:39:15] [Server thread/INFO]: Saving players
+[07:39:15] [Server thread/INFO]: Saving worlds
+[07:39:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:39:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07:39:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07:39:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:39:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:39:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:39:15] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07:39:15] [Server thread/INFO]: Thread RCON Listener stopped
