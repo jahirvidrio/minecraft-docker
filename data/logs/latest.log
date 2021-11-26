@@ -79,3 +79,17 @@
 [06:49:12] [Server thread/INFO]: JahirVidrio joined the game
 [07:00:24] [Server thread/INFO]: JahirVidrio lost connection: Disconnected
 [07:00:24] [Server thread/INFO]: JahirVidrio left the game
+[07:44:57] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[07:44:57] [Server thread/INFO]: [Rcon: Stopping the server]
+[07:44:57] [Server thread/INFO]: Stopping server
+[07:44:57] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[07:44:57] [Server thread/INFO]: Saving players
+[07:44:57] [Server thread/INFO]: Saving worlds
+[07:44:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:44:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07:44:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07:44:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:44:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:44:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:44:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07:44:57] [Server thread/INFO]: Thread RCON Listener stopped
