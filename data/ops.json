@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "7cbed6fa-bbe4-4b19-9c1e-2c516fe39b9d",
+    "name": "SemAhr",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

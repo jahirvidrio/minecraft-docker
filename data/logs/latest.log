@@ -1,64 +1,52 @@
-[13:56:43] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[13:56:43] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:56:43] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:56:43] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:56:43] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:56:43] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:56:43] [main/INFO]: Reloading ResourceManager: Default
-[13:56:45] [Worker-Main-2/INFO]: Loaded 7 recipes
-[13:56:46] [Worker-Main-2/INFO]: Loaded 1137 advancements
-[13:56:48] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[13:56:48] [Server thread/INFO]: Loading properties
-[13:56:48] [Server thread/INFO]: Default game type: SURVIVAL
-[13:56:48] [Server thread/INFO]: Generating keypair
-[13:56:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:56:49] [Server thread/INFO]: Using epoll channel type
-[13:56:49] [Server thread/INFO]: Preparing level "world"
-[13:56:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:56:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:56:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:56:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:56:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:56:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:56:52] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[13:56:52] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[13:56:57] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[13:56:57] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[13:56:57] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[13:56:57] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[13:56:57] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[13:56:57] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[13:56:57] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[13:56:57] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[13:56:57] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[13:56:57] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[13:56:57] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[13:56:58] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[13:56:58] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[13:56:59] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[13:56:59] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[13:57:00] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[13:57:00] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[13:57:01] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[13:57:01] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[13:57:02] [Worker-Main-2/INFO]: Preparing spawn area: 12%
-[13:57:03] [Worker-Main-2/INFO]: Preparing spawn area: 34%
-[13:57:03] [Server thread/INFO]: Time elapsed: 14173 ms
-[13:57:03] [Server thread/INFO]: Done (14.357s)! For help, type "help"
-[13:57:03] [Server thread/INFO]: Starting remote control listener
-[13:57:03] [Server thread/INFO]: Thread RCON Listener started
-[13:57:03] [Server thread/INFO]: RCON running on 0.0.0.0:25575
-[14:03:33] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[14:03:33] [Server thread/INFO]: [Rcon: Stopping the server]
-[14:03:33] [Server thread/INFO]: Stopping server
-[14:03:33] [Server thread/INFO]: Saving players
-[14:03:33] [Server thread/INFO]: Saving worlds
-[14:03:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[14:03:33] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
-[14:03:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[14:03:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[14:03:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:03:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:03:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:03:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[14:03:33] [Server thread/INFO]: Thread RCON Listener stopped
+[21:58:07] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:58:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:58:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:58:08] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:58:08] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:58:08] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:58:08] [main/INFO]: Reloading ResourceManager: Default
+[21:58:09] [Worker-Main-2/INFO]: Loaded 7 recipes
+[21:58:10] [Worker-Main-2/INFO]: Loaded 1137 advancements
+[21:58:12] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[21:58:12] [Server thread/INFO]: Loading properties
+[21:58:12] [Server thread/INFO]: Default game type: SURVIVAL
+[21:58:12] [Server thread/INFO]: Generating keypair
+[21:58:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:58:13] [Server thread/INFO]: Using epoll channel type
+[21:58:13] [Server thread/INFO]: Preparing level "world"
+[21:58:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:58:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:58:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:58:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:58:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:58:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:58:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:58:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:58:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:58:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:58:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:58:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:58:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:58:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:58:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:58:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:58:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:58:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:58:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:58:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:58:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:58:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:58:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:58:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:58:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:58:25] [Worker-Main-2/INFO]: Preparing spawn area: 30%
+[21:58:26] [Server thread/INFO]: Time elapsed: 12712 ms
+[21:58:26] [Server thread/INFO]: Done (12.868s)! For help, type "help"
+[21:58:26] [Server thread/INFO]: Starting remote control listener
+[21:58:26] [Server thread/INFO]: Thread RCON Listener started
+[21:58:26] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[21:58:34] [User Authenticator #1/INFO]: UUID of player SemAhr is 7cbed6fa-bbe4-4b19-9c1e-2c516fe39b9d
+[21:58:34] [Server thread/INFO]: SemAhr[/177.245.216.111:55030] logged in with entity id 207 at (72.01037375788454, 67.0, 17.849743614241547)
+[21:58:35] [Server thread/INFO]: SemAhr joined the game
+[21:58:42] [Server thread/INFO]: SemAhr lost connection: Disconnected
+[21:58:42] [Server thread/INFO]: SemAhr left the game
