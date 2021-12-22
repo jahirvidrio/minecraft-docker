@@ -2,16 +2,16 @@ version: "3"
 
 services:
   minecraft:
-    image: minecraftservers/minecraft-server:stable
+    image: itzg/minecraft-server:java17
     ports:
       - 25565:25565
     environment:
       EULA: "TRUE"
       MEMORY: "2G"
-      VERSION: "1.17.1"
+      VERSION: "1.18"
     tty: true
     stdin_open: true
     restart: unless-stopped
     volumes:
-      - "./data:/data"
+      - ./data:/data
     restart: always
